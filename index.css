@@ -32,7 +32,12 @@ body {
 }*/
 
 /*same thing as above in shorthand*/
-.bigItem {
+/*.bigItem {
   grid-row: 2 / 4;
   grid-column: 2 / 4;
+}*/
+
+/*same thing as above in shorter shorthand*/
+.bigItem {
+  grid-area: 2 / 2 / 4 / 4;
 }
