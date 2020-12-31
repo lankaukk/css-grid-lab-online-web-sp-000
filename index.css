@@ -5,13 +5,13 @@ body {
   font-size: 100px;
   font-family: monospace;
   background-color: black;
-  
+
 }
 
 .grid-container {
   height: 100vh;
   width: 100vw;
-
+  padding: 20px;
   /* your properties here */
   display: grid;
   /*grid-template: auto / 1fr 1fr 2fr;*/
