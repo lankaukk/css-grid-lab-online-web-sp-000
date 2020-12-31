@@ -15,7 +15,7 @@ body {
   /*grid-template: auto / 1fr 1fr 2fr;*/
   grid-template: repeat(4, 1fr) / repeat(3, 1fr);
   grid-gap: 10px;
-  align-items: baseline;
+  align-items: stretch;;
 }
 
 .grid-item {
